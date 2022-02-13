@@ -1,0 +1,61 @@
+
+
+html {
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-color:#f2f7f2;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color :#6a54ec;
+    text-shadow: 5px 5px 3px #d8ee76c9;
+}
+
+fieldset {
+    background-color:aqua;
+    border: none;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+legend {
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+input {
+    background-color: rgba(240, 243, 248, 0.651);
+    border-style: none;
+}
+
+#showedText {
+    display: inline;
+    font-size: small;
+}
+button {
+    background-color: #a2a4a5f1;
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    cursor: pointer;
+}
+ 
+#delete {
+     border: solid 1px blue;
+ }
+
+.mostrar button {
+   background-color: rgb(235, 212, 204);
+   border-radius: 5px;
+   text-align: center; 
+}
+
+footer {
+margin-top: 50px;
+padding-top: 10px;
+text-align: center;
+}
