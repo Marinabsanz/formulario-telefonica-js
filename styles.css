@@ -48,7 +48,7 @@ button {
      border: solid 1px blue;
  }
 
-.mostrar button {
+.show-button {
    background-color: rgb(235, 212, 204);
    border-radius: 5px;
    text-align: center; 
